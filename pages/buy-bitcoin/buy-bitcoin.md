@@ -9,6 +9,7 @@ Now that you have some background on Bitcoins let’s understand how to get your
 Purchasing your bitcoins is simple. The four main ways to acquire your bitcoins are: credit card, debit card, bank transfer, and cash.
 
 Acquiring your first bitcoins is as simple as 123:
+
 1. Find a bitcoin exchange that accepts your desired payment method.
 2. Once you pick your exchange, trade your local currency for bitcoins.
 3. Transfer your bitcoins to your secure wallet (hyper link to wallet page) 
