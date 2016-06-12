@@ -2,7 +2,7 @@
 layout: page
 title: How to Buy Bitcoin
 permalink: /buy-bitcoin/
-seotitle: How to Buy Bitcoins Online Instantly
+seotitle: 4 ways to Buy Bitcoins Online Instantly 2016
 ---
 Now that you have some background on Bitcoins let’s understand how to get your hands on some.
 
@@ -33,5 +33,8 @@ Buying bitcoins with Paypal is not a good way to buy, but is frequently requeste
 
 ## Bank Transfer 
 
-If you are in the market for a large quantity of bitcoins and less worried about privacy then a direct bank transfer will allow you to change larger funds at once. Plus it comes with a lower fee 
+If you are in the market for larger quantity of bitcoins and less worried about your privacy then a direct bank transfer will allow you to send larger funds at once. Plus it comes with a lower fee 
+
+
+
 {to buy with bank transfer}
